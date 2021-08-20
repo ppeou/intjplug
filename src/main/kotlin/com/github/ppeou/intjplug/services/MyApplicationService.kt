@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ppeou.intjplug.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ppeou.intjplug.MyBundle
 
 class MyApplicationService {
 
